@@ -7,6 +7,8 @@
 
 A lightweight Python script that identifies duplicate images in a directory by comparing MD5 hashes. Efficiently detects duplicates across common image formats (JPG, PNG, GIF, etc.) using file content hashing, ideal for organizing large media libraries
 
+---
+
 ## Table of Contents  
 - [Overview](#overview)  
 - [Problem Solved](#problem-solved)  
@@ -16,4 +18,13 @@ A lightweight Python script that identifies duplicate images in a directory by c
 - [Generated Output](#generated-output)  
 - [Workflow](#workflow)  
 - [Thanks for Checking It Out](#thanks-for-checking-it-out)  
-- [License](#license)  
+- [License](#license)
+
+---
+
+## Overview  
+Python script identifies duplicate images in specified folder using MD5 hashing  
+Compares file contents rather than filenames/sizes  
+Provides interactive CLI for safe deletion of duplicates  
+
+---
