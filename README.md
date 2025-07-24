@@ -28,3 +28,9 @@ Compares file contents rather than filenames/sizes
 Provides interactive CLI for safe deletion of duplicates  
 
 ---
+
+## Problem Solved  
+1. **Storage waste** → Finds identical images occupying unnecessary space  
+2. **Manual verification** → Automates content-based comparison  
+3. **Accidental duplicates** → Detects copies across different folders/names  
+4. **Unsafe deletion** → Preserves original file while removing copies  
