@@ -33,4 +33,18 @@ Provides interactive CLI for safe deletion of duplicates
 1. **Storage waste** → Finds identical images occupying unnecessary space  
 2. **Manual verification** → Automates content-based comparison  
 3. **Accidental duplicates** → Detects copies across different folders/names  
-4. **Unsafe deletion** → Preserves original file while removing copies  
+4. **Unsafe deletion** → Preserves original file while removing copies
+
+---
+
+## Features  
+| Feature | Functionality |  
+|---------|---------------|  
+| **Content Hashing** | MD5 hash comparison of image binaries |  
+| **Format Support** | Handles JPG/PNG/GIF/BMP/WebP/TIFF |  
+| **Safe Deletion** | Keeps first occurrence in each duplicate group |  
+| **Verbose Mode** | Detailed processing logs |  
+| **Recursive Scan** | Checks all subdirectories automatically |  
+| **Error Handling** | Skips corrupt/unreadable files |    
+
+---
