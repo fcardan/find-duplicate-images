@@ -48,3 +48,12 @@ Provides interactive CLI for safe deletion of duplicates
 | **Error Handling** | Skips corrupt/unreadable files |    
 
 ---
+
+## Tech Stack  
+```plaintext
+Core Language: Python 3.8+  
+Libraries:  
+- os (file system operations)  
+- hashlib (MD5 hashing)  
+- collections.defaultdict (group management)
+```
