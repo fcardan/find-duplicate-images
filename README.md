@@ -57,3 +57,16 @@ Libraries:
 - hashlib (MD5 hashing)  
 - collections.defaultdict (group management)
 ```
+
+---
+
+## Thanks for checking it out ❤️
+### Did you like the project?
+
+- ➡️ **Follow**: [@fcardan](https://github.com/fcardan)
+
+- *️⃣ **Star**: Give it a star to support future updates!  
+
+- 🔀 **Fork**: Fork it to customize for your needs!
+
+---
